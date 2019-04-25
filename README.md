@@ -1,3 +1,11 @@
-# mongodb_seattle-ds-career-040119
+# MongoDB
 
-[MongoDB Walkthrough](yelp_mongo.ipynb)
+## Prerequisites
+
+* `brew install mongodb`
+* `brew services start mongodb`
+* `pip install pymongo`
+
+## Code-Along
+
+* [MongoDB Walkthrough](yelp_mongo.ipynb)
